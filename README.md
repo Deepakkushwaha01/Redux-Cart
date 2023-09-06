@@ -1,8 +1,5 @@
-# React + Vite
+# Redux Toolkit Cart
+React Cart project , In this project will use redux toolkit to provide action on cart items just like clear cart, delete item, increament and decreament of items quantity.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Language 
+* React
